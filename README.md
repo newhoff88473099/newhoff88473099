@@ -4,16 +4,6 @@
   <b>Analista de Dados | Engenharia de Dados</b><br/>
   Python · SQL · Machine Learning · Cloud<br/>
   📍 Curitiba – PR, Brasil
-</p>
-
-<p align="center">
-  <a href="https://github.com/newhoff88473099">
-    <img src="https://img.shields.io/badge/GitHub-newhoff88473099-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/newton-hoffmann-quality">
-    <img src="https://img.shields.io/badge/LinkedIn-Newton_Hoffmann-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
 
 <p align="center">
   <a href="https://www.credly.com/badges/6e38e315-8f09-4adb-9fe7-a6d407975c19/public_url">
