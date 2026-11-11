@@ -18,7 +18,7 @@ Em transição para a área de **TI e dados**, com cerca de 670 horas de capacit
 
 Gosto de automatizar rotinas, tratar e validar dados, garantir rastreabilidade e transformar números em decisões confiáveis.
 
-- 🔭 Buscando atuar em **análise de dados, BI e engenharia de dados**
+- 🔭 Buscando atuar em **análise de dados, BI e Big Data**
 - 🌱 Construindo projetos próprios com Python, SQL e IA aplicada
 - 🗣️ Idiomas: Português (nativo) · Inglês (intermediário)
 
