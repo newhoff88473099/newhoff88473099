@@ -72,7 +72,7 @@ Automação de planilhas e engenharia de dados para controle de qualidade em uma
 
 - **[Cisco Networking Academy — Data Analytics Essentials](https://www.credly.com/badges/6e38e315-8f09-4adb-9fe7-a6d407975c19/public_url)** (credencial verificada) · Excel, SQL, Tableau · 11/2026
 - **Santander — Dados com Python e IA** (bootcamp, 50h) · 06/2026
-- **Data Science Academy** (2019–2020, ~620h): Arquiteto de Soluções AWS, IA Aplicada a Finanças, Machine Learning, Big Data Analytics com R e Azure ML, Engenharia de Dados com Hadoop e Spark, Big Data Real-Time Analytics com Python e Spark, Business Analytics, Visualização de Dados e Design de Dashboards, Programação para Blockchain
+- **Data Science Academy** (2019–2020, 620h): Arquiteto de Soluções AWS, IA Aplicada a Finanças, Machine Learning, Big Data Analytics com R e Azure ML, Engenharia de Dados com Hadoop e Spark, Big Data Real-Time Analytics com Python e Spark, Business Analytics, Visualização de Dados e Design de Dashboards, Programação para Blockchain
 - **CRQ ativo** — Química Industrial
 
 ---
