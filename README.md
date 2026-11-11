@@ -1,12 +1,26 @@
 <h1 align="center">Olá, eu sou o Newton Hoffmann 👋</h1>
 
 <p align="center">
-  <b>Data Analyst | Data Engineer | Big Data</b><br/>
+  <b>Analista de Dados | Engenharia de Dados</b><br/>
   Python · SQL · Machine Learning · Cloud<br/>
+  📍 Curitiba – PR, Brasil
+</p>
+
+<p align="center">
+  <a href="https://github.com/newhoff88473099">
+    <img src="https://img.shields.io/badge/GitHub-newhoff88473099-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/newton-hoffmann-quality">
+    <img src="https://img.shields.io/badge/LinkedIn-Newton_Hoffmann-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://www.credly.com/badges/6e38e315-8f09-4adb-9fe7-a6d407975c19/public_url">
     <img src="https://images.credly.com/images/1fdfeaeb-e61c-4450-bdfe-a07bd4e715df/linkedin_thumb_image.png" alt="Badge Cisco Networking Academy - Data Analytics Essentials (Verified)" width="200" />
+  </a>
+  <a href="https://www.credly.com/badges/f1193fcc-035b-4d01-8eb5-17a8e68a2b0e/public_url">
+    <img src="https://images.credly.com/images/62db59ef-19f9-4652-a00c-7582baee8177/linkedin_thumb_blob" alt="Badge Cisco Networking Academy - Data Science Essentials with Python (Verified)" width="200" />
   </a>
 </p>
 
@@ -14,11 +28,11 @@
 
 ## 🧠 Sobre mim
 
-Em transição para a área de **TI e dados**, com cerca de 670 horas de capacitação em Python, SQL, R, Big Data (Hadoop e Spark), Machine Learning, dashboards e Cloud (AWS e Azure).
+Tenho mais de **13 anos de experiência em ambiente industrial**, trabalhando com dados de instrumentação analítica, controle estatístico de processos (CEP) e sistemas de gestão da qualidade. Hoje estou em transição para a área de **TI e dados**, com cerca de 670 horas de capacitação em Python, SQL, R, Big Data (Hadoop e Spark), Machine Learning, dashboards e Cloud (AWS e Azure).
 
 Gosto de automatizar rotinas, tratar e validar dados, garantir rastreabilidade e transformar números em decisões confiáveis.
 
-- 🔭 Buscando atuar em **análise de dados, BI e Big Data**
+- 🔭 Buscando atuar em **análise de dados, BI e engenharia de dados**
 - 🌱 Construindo projetos próprios com Python, SQL e IA aplicada
 - 🗣️ Idiomas: Português (nativo) · Inglês (intermediário)
 
@@ -33,7 +47,7 @@ Sistema que centraliza a rotina de um laboratório: do recebimento da amostra à
 Painel de vendas em Python que também conversa: você pergunta em português e um agente de IA responde com as métricas calculadas pelo código.
 `Python` · `IA / agentes`
 
-### 📑 Automação de QC em Excel
+### 📑 Automação de QC em Excel (Águas Ouro Fino)
 Automação de planilhas e engenharia de dados para controle de qualidade em uma empresa de saneamento.
 `Excel avançado` · `Automação` · `Qualidade de dados`
 
@@ -48,7 +62,7 @@ Automação de planilhas e engenharia de dados para controle de qualidade em uma
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel_avançado-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
-**Big Data**
+**Engenharia de dados e Big Data**
 
 ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
 ![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
@@ -66,14 +80,39 @@ Automação de planilhas e engenharia de dados para controle de qualidade em uma
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![Git](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
+**Qualidade e processos**
+
+CEP · ISO 9001 · ISO/IEC 17025 · FSSC 22000 · Rastreabilidade · Auditoria
+
+---
+
+## 💼 Experiência
+
+**Técnico de Laboratório e Engenheiro de Produção — Ingredion Brasil** · Curitiba – PR · mais de 13 anos
+
+- Geração e análise de dados de instrumentação analítica (HPLC, GC, AA, MS) para apoiar decisões de qualidade e produção
+- Controle estatístico de processo para monitorar variabilidade, identificar desvios e apoiar a melhoria contínua
+- Atuação em sistemas de gestão da qualidade, garantindo integridade dos registros e conformidade
+- Comunicação de indicadores técnicos para equipes de produção, qualidade e gestão
+
 ---
 
 ## 🏅 Formação e certificações
 
 - **[Cisco Networking Academy — Data Analytics Essentials](https://www.credly.com/badges/6e38e315-8f09-4adb-9fe7-a6d407975c19/public_url)** (credencial verificada) · Excel, SQL, Tableau · 11/2026
+- **[Cisco Networking Academy — Data Science Essentials with Python](https://www.credly.com/badges/f1193fcc-035b-4d01-8eb5-17a8e68a2b0e/public_url)** (credencial verificada)
 - **Santander — Dados com Python e IA** (bootcamp, 50h) · 06/2026
-- **Data Science Academy** (2019–2020, 620h): Arquiteto de Soluções AWS, IA Aplicada a Finanças, Machine Learning, Big Data Analytics com R e Azure ML, Engenharia de Dados com Hadoop e Spark, Big Data Real-Time Analytics com Python e Spark, Business Analytics, Visualização de Dados e Design de Dashboards, Programação para Blockchain
+- **Data Science Academy** (2019–2020, ~620h): Arquiteto de Soluções AWS, IA Aplicada a Finanças, Machine Learning, Big Data Analytics com R e Azure ML, Engenharia de Dados com Hadoop e Spark, Big Data Real-Time Analytics com Python e Spark, Business Analytics, Visualização de Dados e Design de Dashboards, Programação para Blockchain
 - **CRQ ativo** — Química Industrial
+
+---
+
+## 📈 Estatísticas do GitHub
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=newhoff88473099&show_icons=true&theme=transparent&hide_border=true" alt="Estatísticas do GitHub" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=newhoff88473099&layout=compact&theme=transparent&hide_border=true" alt="Linguagens mais usadas" />
+</p>
 
 ---
 
