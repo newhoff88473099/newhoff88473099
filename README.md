@@ -77,15 +77,6 @@ Automação de planilhas e engenharia de dados para controle de qualidade em uma
 
 ---
 
-## 📈 Estatísticas do GitHub
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=newhoff88473099&show_icons=true&theme=transparent&hide_border=true" alt="Estatísticas do GitHub" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=newhoff88473099&layout=compact&theme=transparent&hide_border=true" alt="Linguagens mais usadas" />
-</p>
-
----
-
 <p align="center">
   <i>Transformando dados em decisões confiáveis.</i>
 </p>
