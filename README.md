@@ -14,7 +14,7 @@
 
 ## 🧠 Sobre mim
 
-Hoje estou em transição para a área de **TI e dados**, com cerca de 670 horas de capacitação em Python, SQL, R, Big Data (Hadoop e Spark), Machine Learning, dashboards e Cloud (AWS e Azure).
+Em transição para a área de **TI e dados**, com cerca de 670 horas de capacitação em Python, SQL, R, Big Data (Hadoop e Spark), Machine Learning, dashboards e Cloud (AWS e Azure).
 
 Gosto de automatizar rotinas, tratar e validar dados, garantir rastreabilidade e transformar números em decisões confiáveis.
 
