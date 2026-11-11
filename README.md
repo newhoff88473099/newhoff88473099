@@ -3,7 +3,6 @@
 <p align="center">
   <b>Analista de Dados | Big Data</b><br/>
   Python · SQL · Machine Learning · Cloud<br/>
-  📍 Curitiba – PR, Brasil
 
 <p align="center">
   <a href="https://www.credly.com/badges/6e38e315-8f09-4adb-9fe7-a6d407975c19/public_url">
@@ -15,7 +14,7 @@
 
 ## 🧠 Sobre mim
 
-Tenho mais de **13 anos de experiência em ambiente industrial**, trabalhando com dados de instrumentação analítica, controle estatístico de processos (CEP) e sistemas de gestão da qualidade. Hoje estou em transição para a área de **TI e dados**, com cerca de 670 horas de capacitação em Python, SQL, R, Big Data (Hadoop e Spark), Machine Learning, dashboards e Cloud (AWS e Azure).
+Hoje estou em transição para a área de **TI e dados**, com cerca de 670 horas de capacitação em Python, SQL, R, Big Data (Hadoop e Spark), Machine Learning, dashboards e Cloud (AWS e Azure).
 
 Gosto de automatizar rotinas, tratar e validar dados, garantir rastreabilidade e transformar números em decisões confiáveis.
 
@@ -49,7 +48,7 @@ Automação de planilhas e engenharia de dados para controle de qualidade em uma
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel_avançado-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
-**Engenharia de dados e Big Data**
+**Big Data**
 
 ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
 ![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
@@ -66,21 +65,6 @@ Automação de planilhas e engenharia de dados para controle de qualidade em uma
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![Git](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
-**Qualidade e processos**
-
-CEP · ISO 9001 · ISO/IEC 17025 · FSSC 22000 · Rastreabilidade · Auditoria
-
----
-
-## 💼 Experiência
-
-**Técnico de Laboratório e Engenheiro de Produção — Ingredion Brasil** · Curitiba – PR · mais de 13 anos
-
-- Geração e análise de dados de instrumentação analítica (HPLC, GC, AA, MS) para apoiar decisões de qualidade e produção
-- Controle estatístico de processo para monitorar variabilidade, identificar desvios e apoiar a melhoria contínua
-- Atuação em sistemas de gestão da qualidade, garantindo integridade dos registros e conformidade
-- Comunicação de indicadores técnicos para equipes de produção, qualidade e gestão
 
 ---
 
