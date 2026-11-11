@@ -33,7 +33,7 @@ Sistema que centraliza a rotina de um laboratório: do recebimento da amostra à
 Painel de vendas em Python que também conversa: você pergunta em português e um agente de IA responde com as métricas calculadas pelo código.
 `Python` · `IA / agentes`
 
-### 📑 Automação de QC em Excel (Águas Ouro Fino)
+### 📑 Automação de QC em Excel
 Automação de planilhas e engenharia de dados para controle de qualidade em uma empresa de saneamento.
 `Excel avançado` · `Automação` · `Qualidade de dados`
 
