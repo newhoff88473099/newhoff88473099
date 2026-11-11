@@ -13,8 +13,11 @@
   <a href="https://www.linkedin.com/in/newton-hoffmann-quality">
     <img src="https://img.shields.io/badge/LinkedIn-Newton_Hoffmann-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+</p>
+
+<p align="center">
   <a href="https://www.credly.com/badges/6e38e315-8f09-4adb-9fe7-a6d407975c19/public_url">
-    <img src="https://img.shields.io/badge/Cisco-Data_Analytics_Essentials_(Verified)-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco - Data Analytics Essentials (Verified)" />
+    <img src="https://images.credly.com/images/1fdfeaeb-e61c-4450-bdfe-a07bd4e715df/linkedin_thumb_image.png" alt="Badge Cisco Networking Academy - Data Analytics Essentials (Verified)" width="200" />
   </a>
 </p>
 
@@ -92,12 +95,6 @@ CEP · ISO 9001 · ISO/IEC 17025 · FSSC 22000 · Rastreabilidade · Auditoria
 ---
 
 ## 🏅 Formação e certificações
-
-<p align="center">
-  <a href="https://www.credly.com/badges/6e38e315-8f09-4adb-9fe7-a6d407975c19/public_url">
-    <img src="data-analytics-essentials.png" alt="Badge Cisco Networking Academy - Data Analytics Essentials (Verified)" width="300" />
-  </a>
-</p>
 
 - **[Cisco Networking Academy — Data Analytics Essentials](https://www.credly.com/badges/6e38e315-8f09-4adb-9fe7-a6d407975c19/public_url)** (credencial verificada) · Excel, SQL, Tableau · 11/2026
 - **Santander — Dados com Python e IA** (bootcamp, 50h) · 06/2026
