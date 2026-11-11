@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Newton Hoffmann 👋</h1>
 
 <p align="center">
-  <b>Analista de Dados | Big Data</b><br/>
+  <b>Data Analyst | Data Engineer | Big Data</b><br/>
   Python · SQL · Machine Learning · Cloud<br/>
 
 <p align="center">
