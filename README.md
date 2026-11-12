@@ -22,13 +22,16 @@
   <a href="https://www.credly.com/badges/f1193fcc-035b-4d01-8eb5-17a8e68a2b0e/public_url">
     <img src="https://images.credly.com/images/62db59ef-19f9-4652-a00c-7582baee8177/linkedin_thumb_blob" alt="Badge Cisco Networking Academy - Data Science Essentials with Python (Verified)" width="200" />
   </a>
+  <a href="https://www.credly.com/badges/bcf5cd30-9261-406a-8064-d3577c3c966c/public_url">
+    <img src="https://images.credly.com/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/linkedin_thumb_image.png" alt="Badge Cisco Networking Academy - Python Essentials 1" width="200" />
+  </a>
 </p>
 
 ---
 
 ## 🧠 Sobre mim
 
-Em transição para a área de **TI e dados**, com cerca de 670 horas de capacitação em Python, SQL, R, Big Data (Hadoop e Spark), Machine Learning, dashboards e Cloud (AWS e Azure).
+Tenho mais de **13 anos de experiência em ambiente industrial**, trabalhando com dados de instrumentação analítica, controle estatístico de processos (CEP) e sistemas de gestão da qualidade. Hoje estou em transição para a área de **TI e dados**, com cerca de 670 horas de capacitação em Python, SQL, R, Big Data (Hadoop e Spark), Machine Learning, dashboards e Cloud (AWS e Azure).
 
 Gosto de automatizar rotinas, tratar e validar dados, garantir rastreabilidade e transformar números em decisões confiáveis.
 
@@ -86,13 +89,34 @@ CEP · ISO 9001 · ISO/IEC 17025 · FSSC 22000 · Rastreabilidade · Auditoria
 
 ---
 
+## 💼 Experiência
+
+**Técnico de Laboratório e Engenheiro de Produção — Ingredion Brasil** · Curitiba – PR · mais de 13 anos
+
+- Geração e análise de dados de instrumentação analítica (HPLC, GC, AA, MS) para apoiar decisões de qualidade e produção
+- Controle estatístico de processo para monitorar variabilidade, identificar desvios e apoiar a melhoria contínua
+- Atuação em sistemas de gestão da qualidade, garantindo integridade dos registros e conformidade
+- Comunicação de indicadores técnicos para equipes de produção, qualidade e gestão
+
+---
+
 ## 🏅 Formação e certificações
 
 - **[Cisco Networking Academy — Data Analytics Essentials](https://www.credly.com/badges/6e38e315-8f09-4adb-9fe7-a6d407975c19/public_url)** (credencial verificada) · Excel, SQL, Tableau · 11/2026
 - **[Cisco Networking Academy — Data Science Essentials with Python](https://www.credly.com/badges/f1193fcc-035b-4d01-8eb5-17a8e68a2b0e/public_url)** (credencial verificada)
+- **[Cisco Networking Academy — Python Essentials 1](https://www.credly.com/badges/bcf5cd30-9261-406a-8064-d3577c3c966c/public_url)** (credencial verificada)
 - **Santander — Dados com Python e IA** (bootcamp, 50h) · 06/2026
 - **Data Science Academy** (2019–2020, ~620h): Arquiteto de Soluções AWS, IA Aplicada a Finanças, Machine Learning, Big Data Analytics com R e Azure ML, Engenharia de Dados com Hadoop e Spark, Big Data Real-Time Analytics com Python e Spark, Business Analytics, Visualização de Dados e Design de Dashboards, Programação para Blockchain
 - **CRQ ativo** — Química Industrial
+
+---
+
+## 📈 Estatísticas do GitHub
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=newhoff88473099&show_icons=true&theme=transparent&hide_border=true" alt="Estatísticas do GitHub" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=newhoff88473099&layout=compact&theme=transparent&hide_border=true" alt="Linguagens mais usadas" />
+</p>
 
 ---
 
