@@ -97,6 +97,7 @@ CEP · ISO 9001 · ISO/IEC 17025 · FSSC 22000 · Rastreabilidade · Auditoria
 - **[Cisco Networking Academy — Data Analytics Essentials](https://www.credly.com/badges/6e38e315-8f09-4adb-9fe7-a6d407975c19/public_url)** (credencial verificada) · Excel, SQL, Tableau · 11/2026
 - **[Cisco Networking Academy — Data Science Essentials with Python](https://www.credly.com/badges/f1193fcc-035b-4d01-8eb5-17a8e68a2b0e/public_url)** (credencial verificada)
 - **[Cisco Networking Academy — Python Essentials 1](https://www.credly.com/badges/bcf5cd30-9261-406a-8064-d3577c3c966c/public_url)** (credencial verificada)
+- https://credentials.databricks.com/1a4d2a7e-97ae-4ca9-afc9-003e9bb3a179#acc.vCABKy03
 - **Santander — Dados com Python e IA** (bootcamp, 50h) · 06/2026
 - **Data Science Academy** (2019–2020, ~620h): Arquiteto de Soluções AWS, IA Aplicada a Finanças, Machine Learning, Big Data Analytics com R e Azure ML, Engenharia de Dados com Hadoop e Spark, Big Data Real-Time Analytics com Python e Spark, Business Analytics, Visualização de Dados e Design de Dashboards, Programação para Blockchain
 - **CRQ ativo** — Química Industrial
