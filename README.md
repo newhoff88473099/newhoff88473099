@@ -17,13 +17,13 @@
 
 <p align="center">
   <a href="https://www.credly.com/badges/6e38e315-8f09-4adb-9fe7-a6d407975c19/public_url">
-    <img src="https://images.credly.com/images/1fdfeaeb-e61c-4450-bdfe-a07bd4e715df/linkedin_thumb_image.png" alt="Badge Cisco Networking Academy - Data Analytics Essentials (Verified)" width="200" />
+    <img src="https://images.credly.com/size/340x340/images/1fdfeaeb-e61c-4450-bdfe-a07bd4e715df/image.png" alt="Badge Cisco Networking Academy - Data Analytics Essentials (Verified)" width="200" />
   </a>
   <a href="https://www.credly.com/badges/f1193fcc-035b-4d01-8eb5-17a8e68a2b0e/public_url">
-    <img src="https://images.credly.com/images/62db59ef-19f9-4652-a00c-7582baee8177/linkedin_thumb_blob" alt="Badge Cisco Networking Academy - Data Science Essentials with Python (Verified)" width="200" />
+    <img src="https://images.credly.com/size/340x340/images/62db59ef-19f9-4652-a00c-7582baee8177/blob" alt="Badge Cisco Networking Academy - Data Science Essentials with Python (Verified)" width="200" />
   </a>
   <a href="https://www.credly.com/badges/bcf5cd30-9261-406a-8064-d3577c3c966c/public_url">
-    <img src="https://images.credly.com/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/linkedin_thumb_image.png" alt="Badge Cisco Networking Academy - Python Essentials 1" width="200" />
+    <img src="https://images.credly.com/size/340x340/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" alt="Badge Cisco Networking Academy - Python Essentials 1" width="200" />
   </a>
   <a href="https://credentials.databricks.com/1a4d2a7e-97ae-4ca9-afc9-003e9bb3a179#acc.vCABKy03">
     <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/200416944" alt="Badge Databricks Academy Accreditation - AWS Databricks Platform Architect" width="200" />
