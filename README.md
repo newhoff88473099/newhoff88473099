@@ -26,7 +26,7 @@
     <img src="https://images.credly.com/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/linkedin_thumb_image.png" alt="Badge Cisco Networking Academy - Python Essentials 1" width="200" />
   </a>
   <a href="https://credentials.databricks.com/1a4d2a7e-97ae-4ca9-afc9-003e9bb3a179#acc.vCABKy03">
-    <img src="https://s3.us-east-1.amazonaws.com/accredible_temp_credential_images/16002836894132567677717491881160.png" alt="Badge Databricks Academy Accreditation - AWS Databricks Platform Architect" width="200" />
+    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/200416944" alt="Badge Databricks Academy Accreditation - AWS Databricks Platform Architect" width="200" />
   </a>
 </p>
 
